@@ -1,6 +1,17 @@
 # Baseline Predictive Pipeline -- ETAI
 
-change 1 rodrigo silva
+change 1 rodrigo silva 
+
+2nd commit added data cleaning
+Classification report (test set):
+              precision    recall  f1-score   support
+
+           0       0.65      0.80      0.72       793
+           1       0.67      0.49      0.56       650
+
+    accuracy                           0.66      1443
+   macro avg       0.66      0.64      0.64      1443
+weighted avg       0.66      0.66      0.65      14
 
 
 This is the **starting point** for your semester project: a small but *complete* predictive pipeline -- every piece a real project needs (entry point, config, data loading, preprocessing, model, evaluation), just kept as simple as possible for now.
