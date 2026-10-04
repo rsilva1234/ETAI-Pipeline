@@ -23,7 +23,7 @@ assessment algorithm actually used by US courts to help inform bail and sentenci
 It has some **deliberately weak spots**. Part of your work this
 semester is finding them and making them better -- see the pipeline progress table below, which tracks what changes and why as the weeks
 go on.
-
+ 3rd commit addesd preprosecing part
 ## Project structure
 
 ```
